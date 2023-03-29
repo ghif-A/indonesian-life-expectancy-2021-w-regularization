@@ -1,5 +1,5 @@
 # indonesian-life-expectancy-2021-w-regularization
-A jupyter notebook archive of Data Science Competition MCF ITB 2022 by sabeb team
+A jupyter notebook archive of Data Science Competition MCF ITB 2022 by sabeb team.
 
 *Important note: This notebook was originally written in Indonesian. If you don't understand it, you can use your browser's translation feature.*
 
